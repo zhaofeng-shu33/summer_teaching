@@ -1,12 +1,12 @@
 # 2018清华深研院紫荆志愿团暑期支教
 
-![](./blob/master/video/group_photo.jpg)
+![](./video/group_photo.jpg)
 
-* [教案](./tree/master/teaching_plan)
-* [总策划](./blob/master/planning/planning_v4.5.pdf)
-* [实践后期照片](./tree/master/requirement)
-* [支教视频](./tree/master/video)
-* [支教推送](./tree/master/wechat_post)
-* [年会发言稿](./tree/master/mzxl2018)
-* [支教回访](./tree/master/continuous)
-* [开营仪式发言稿](./tree/master/auxiliary_files)
+* [教案](./teaching_plan)
+* [总策划](./planning/planning_v4.5.pdf)
+* [实践后期照片](./requirement)
+* [支教视频](./video)
+* [支教推送](./wechat_post)
+* [年会发言稿](./mzxl2018)
+* [支教回访](./continuous)
+* [开营仪式发言稿](./auxiliary_files)
