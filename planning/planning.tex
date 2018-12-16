@@ -1,4 +1,6 @@
 \documentclass[12pt]{ctexart}
+\def\version{4.6}
+\newenvironment{smaller}{\zihao{5}}{\zihao{-4}}
 % set the left/right margin such that the main title can be written within one line
 \usepackage[left=30mm]{geometry}
 \usepackage{enumitem}
@@ -20,7 +22,8 @@
 \def\CurriculumScheduleWidth{1.6cm}
 \begin{document}
 % first page is cover
-\title{
+\begin{titlepage}
+\begin{center}
     \vspace{-0.5in}
     \textmd{\textbf{\huge{2018暑假清华大学深圳研究生院紫荆志愿者团爱心支教}}}\\
     \normalsize\vspace{0.1in}\Large{2018年春季学期}\\
@@ -31,9 +34,16 @@
     \vspace{1in}
      \textbf{\huge{书}}\\
     \vspace{1in}
-}
-\author{策划人：赵丰}
-\maketitle
+策划人：赵丰
+\vspace{0.2in}
+\begin{smaller}
+
+版本：\texttt{\version}
+
+\today
+\end{smaller}
+\end{center}
+\end{titlepage}
 \thispagestyle{empty}
 \pagebreak
 \pagestyle{runningpage}
@@ -54,11 +64,11 @@
 \hline
 名称 & 负责人 & 来源 & 备注 \\
 \hline
-儿童机器人套装 & 赵丰 & 深圳市搭搭乐乐文化传播有限公司 & 共11套，支教结束后4套运回，其余捐献给支教地 \\
+儿童机器人套装 & 赵丰 & 深圳市搭搭乐乐文化传播有限公司 & 11套 \\
 \hline
-素质拓展道具 & 黄少平 & 清华深研院心理辅导中心 & 共6件，非消耗品全部运回，消耗品奖励学生 \\
+素质拓展道具 & 黄少平 & 清华深研院心理辅导中心 & 6件 \\
 \hline
-DOBOT魔术师（价值一万元） & 黄少平 & 越疆科技 & 1件，运回 \\
+DOBOT魔术师 & 黄少平 & 越疆科技 & 1件 \\
 \hline
 娃哈哈饮料 & 张炎武 & 打稔村购买 & 1箱，家访扶贫 \\
 \hline
@@ -90,21 +100,21 @@ Canon 相机 & 王鲜俐 & 自带 & 活动拍照 \\
 \hline
 姓名 & 性别 & 年级 & 系别 & 联系方式\\
 \hline
-赵丰 & 男 & 研一 & 电子系 & 18800190762 \\
+赵丰 & 男 & 研一 & 电子系 &  ***\\
 \hline
-张晓冰  &	男	& 研一 &  生物系 & 13938315159 \\
+张晓冰  &	男	& 研一 &  生物系 &  ***\\
 \hline
-张炎武 & 男 & 研一 & 医院管理 & 18894000752\\
+张炎武 & 男 & 研一 & 医院管理 & ***\\
 \hline
-白杨 & 女 & 研一 & 电子系 & 18810913823\\
+白杨 & 女 & 研一 & 电子系 & *** \\
 \hline
-王鲜俐 & 女 & 研一 & 材料系 & 17633905356\\
+王鲜俐 & 女 & 研一 & 材料系 & ***\\
 \hline
-黄少平 & 男 & 研一 & 自动化系 & 13696922357\\
+黄少平 & 男 & 研一 & 自动化系 & ***\\
 \hline
-周俞君（琼） & 女 & 大一 & 学前教育 & 13036084399 \\
+周俞君（琼） & 女 & 大一 & 学前教育 &  ***\\
 \hline
-周让强（琼） & 女 & 大二 & 医药营销 & 13518025473 \\
+周让强（琼） & 女 & 大二 & 医药营销 &  ***\\
 \hline
 \end{tabular}
 \caption{参与支教志愿者名单}
@@ -184,7 +194,7 @@ Canon 相机 & 王鲜俐 & 自带 & 活动拍照 \\
 \section{联系方式}
 清华大学深圳研究生院紫荆志愿者团副团长：赵丰
 
-Tel: 18800190762
+Tel: ***
 
 Email: 616545598@qq.com
 \begin{flushright}
@@ -243,12 +253,12 @@ Email: 616545598@qq.com
 的时间去东莞看望陈贵喜和其父母，进一步调研农民工子女孩子教育的艰难处境；下午带陈贵喜去东莞科技馆参观。
 \section{项目财务预算}\label{scheduling}
 \begin{enumerate}
-\item 往返火车票（学校报销，赵丰垫付大部分，尚未报销）
+\item 往返火车票
 \item 住宿费，由当地政府帮忙解决。
 \item 餐饮，由当地政府帮忙解决。
-\item 宣传和教学纸制资料：必要的教具，横幅、教案打印、奖品（赵丰垫付，已经报销）。
-\item 物资邮寄费用（越疆科技、村委会报销）。
-\item 志愿者出行保险（赵丰垫付）。
+\item 宣传和教学纸制资料：必要的教具，横幅、教案打印、奖品。
+\item 物资邮寄费用。
+\item 志愿者出行保险。
 \end{enumerate}
 \section{志愿者保障和守则}
 \subsection{保障}
