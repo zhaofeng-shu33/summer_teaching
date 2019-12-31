@@ -4,7 +4,7 @@
 | [三字经](https://wenku.baidu.com/view/b128600959fafab069dc5022aaea998fcc2240cc) | 张炎武 |                                                              |
 |                                                              | 周让强 | [低年级《BINGO》](https://wenku.baidu.com/view/5d19fc0cae1ffc4ffe4733687e21af45b307fed8) |
 | [刮画](https://wenku.baidu.com/view/a47a7394f80f76c66137ee06eff9aef8951e4847) | 周俞君 |                                                              |
-|     | 周俞君 |  [趣味英语](https://wenku.baidu.com/view/2f40c312f56527d3240c844769eae009591ba245)                                                             |
+| [趣味英语](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/spring_semester2018/summer_teaching/儋州支教教案/趣味英语（周俞君）.pptx)    | 周俞君 |  [趣味英语](https://wenku.baidu.com/view/2f40c312f56527d3240c844769eae009591ba245)                                                             |
 | [中华传统礼仪](https://wenku.baidu.com/view/29658cf4dbef5ef7ba0d4a7302768e9951e76eaf) | 周让强 |                                                              |
-|                                                              |        |                                                              |
+| [中国神话故事](https://freiwilliger.oss-cn-shenzhen.aliyuncs.com/volunteer/spring_semester2018/summer_teaching/儋州支教教案/中国神话故事（白杨）.pptx) | 白杨      |                      |
 |                                                              |        |                                                              |
